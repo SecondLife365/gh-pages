@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Multipurpose House",
+    "description": "",
+    "home_page_url": "https://SecondLife365.github.io/gh-pages",
+    "feed_url": "https://SecondLife365.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jan"
+    },
+    "items": [
+        {
+            "id": "https://SecondLife365.github.io/gh-pages/multipurpose-house-for-vr.html",
+            "url": "https://SecondLife365.github.io/gh-pages/multipurpose-house-for-vr.html",
+            "title": "Multipurpose House for VR",
+            "summary": "Hello world! I created the multipurpose house in Second Life for you. It is full of stuff which is free for you, but many things inside I bought. This website will list all the changes I do to the house through the years, since 2020.",
+            "content_html": "<p><strong>Hello world!</strong></p>\n<p>I created the multipurpose house in Second Life for you. It is full of stuff which is free for you, but many things inside I bought. This website will list all the changes I do to the house through the years, since 2020.</p>\n<p>In 2019 the second version of the house was sent. Every new version of the house contains previous items and some new added</p>\n<p><strong>Changes made since January 2020</strong></p>\n<p>01/2020</p>\n<p>The script changed for doors. Now it stays open. The script is full perm and I got it for 150 L. It allows to lock the house for a list of users or for a group</p>",
+            "author": {
+                "name": "Jan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-22T13:34:57+01:00",
+            "date_modified": "2020-01-22T14:38:14+01:00"
+        }
+    ]
+}
