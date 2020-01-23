@@ -3,7 +3,7 @@
     <title>Multipurpose House</title>
     <link href="https://SecondLife365.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://SecondLife365.github.io/gh-pages" />
-    <updated>2020-01-23T11:39:58+01:00</updated>
+    <updated>2020-01-23T12:28:12+01:00</updated>
     <author>
         <name>Jan</name>
     </author>
@@ -17,10 +17,16 @@
         <link href="https://SecondLife365.github.io/gh-pages/gallery.html"/>
         <id>https://SecondLife365.github.io/gh-pages/gallery.html</id>
 
-        <updated>2020-01-23T11:39:40+01:00</updated>
-            <summary></summary>
+        <updated>2020-01-23T12:25:30+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/2/Firestorm-Releasex64_SBfkKjvcTf.png" alt="" />
+                    This room is furnished by furniture usable in living rooms, bed rooms&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://SecondLife365.github.io/gh-pages/media/posts/2/Firestorm-Releasex64_SBfkKjvcTf.png" alt="" />
                 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_001.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_001-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic-_001.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic-_001-thumbnail.png" alt="" width="768" height="432"></a></figure>
@@ -40,6 +46,8 @@
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_013.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_013-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_014.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_014-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div>
+<p>This room is furnished by furniture usable in living rooms, bed rooms and other individual rooms where people stay to spend time, for example with their friends by a cup of coffee. You can invite your friends and have them seated by the table while chatting with them.</p>
+<p class="msg msg--info"><em>Most items are copy/mod. When you need, just take or copy them to your inventory and use anywhere you need. inside of every object, there is a script Multi-Scene Object Pin. You do not need that script when you do not use the object with the rezzer. Feel free to remove Multi-Scene Object pin from the content.</em></p>
             ]]>
         </content>
     </entry>
