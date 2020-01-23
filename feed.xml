@@ -3,12 +3,46 @@
     <title>Multipurpose House</title>
     <link href="https://SecondLife365.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://SecondLife365.github.io/gh-pages" />
-    <updated>2020-01-23T10:01:36+01:00</updated>
+    <updated>2020-01-23T11:39:58+01:00</updated>
     <author>
         <name>Jan</name>
     </author>
     <id>https://SecondLife365.github.io/gh-pages</id>
 
+    <entry>
+        <title>Gallery</title>
+        <author>
+            <name>Jan</name>
+        </author>
+        <link href="https://SecondLife365.github.io/gh-pages/gallery.html"/>
+        <id>https://SecondLife365.github.io/gh-pages/gallery.html</id>
+
+        <updated>2020-01-23T11:39:40+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_001.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_001-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic-_001.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic-_001-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_002.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_002-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic-_002.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic-_002-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_003.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_003-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic-_003.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic-_003-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_004.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_004-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_005.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_005-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_006.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_006-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_007.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_007-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_008.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_008-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_009.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_009-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_010.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_010-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_011.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_011-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_012.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_012-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_013.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_013-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_014.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_014-thumbnail.png" alt="" width="768" height="432"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Multipurpose House for VR</title>
         <author>
