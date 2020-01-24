@@ -3,12 +3,37 @@
     <title>A Multipurpose House Rezzer</title>
     <link href="https://SecondLife365.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://SecondLife365.github.io/gh-pages" />
-    <updated>2020-01-24T02:35:16+01:00</updated>
+    <updated>2020-01-24T11:34:56+01:00</updated>
     <author>
         <name>Jan</name>
     </author>
     <id>https://SecondLife365.github.io/gh-pages</id>
 
+    <entry>
+        <title>Xmas</title>
+        <author>
+            <name>Jan</name>
+        </author>
+        <link href="https://SecondLife365.github.io/gh-pages/xmas.html"/>
+        <id>https://SecondLife365.github.io/gh-pages/xmas.html</id>
+
+        <updated>2020-01-24T11:33:24+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://SecondLife365.github.io/gh-pages/media/posts/8/Firestorm-Releasex64_Q6fgr1PjGX.png" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_048.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_048-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_049.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_049-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_050.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_050-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_051.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_051-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_052.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_052-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_053.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_053-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_054.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_054-thumbnail.png" alt="" width="768" height="432"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>New! (changelog)</title>
         <author>
