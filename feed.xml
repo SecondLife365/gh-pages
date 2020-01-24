@@ -3,7 +3,7 @@
     <title>A Multipurpose House Rezzer</title>
     <link href="https://SecondLife365.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://SecondLife365.github.io/gh-pages" />
-    <updated>2020-01-23T23:15:27+01:00</updated>
+    <updated>2020-01-24T02:18:34+01:00</updated>
     <author>
         <name>Jan</name>
     </author>
@@ -34,18 +34,6 @@
         </content>
     </entry>
     <entry>
-        <title>New! (changelog)</title>
-        <author>
-            <name>Jan</name>
-        </author>
-        <link href="https://SecondLife365.github.io/gh-pages/what-is-new-changelog.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/what-is-new-changelog.html</id>
-
-        <updated>2020-01-23T15:39:59+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
         <title>Frame Shop</title>
         <author>
             <name>Jan</name>
@@ -53,7 +41,7 @@
         <link href="https://SecondLife365.github.io/gh-pages/frame-shop.html"/>
         <id>https://SecondLife365.github.io/gh-pages/frame-shop.html</id>
 
-        <updated>2020-01-23T23:09:07+01:00</updated>
+        <updated>2020-01-24T01:57:19+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -80,7 +68,7 @@
         <link href="https://SecondLife365.github.io/gh-pages/classroom-1.html"/>
         <id>https://SecondLife365.github.io/gh-pages/classroom-1.html</id>
 
-        <updated>2020-01-23T22:37:39+01:00</updated>
+        <updated>2020-01-24T02:06:58+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -105,14 +93,14 @@
         </content>
     </entry>
     <entry>
-        <title>Anonymous pub</title>
+        <title>Pub</title>
         <author>
             <name>Jan</name>
         </author>
         <link href="https://SecondLife365.github.io/gh-pages/anonymous-pub.html"/>
         <id>https://SecondLife365.github.io/gh-pages/anonymous-pub.html</id>
 
-        <updated>2020-01-23T22:29:48+01:00</updated>
+        <updated>2020-01-24T02:07:18+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -139,7 +127,7 @@
         <link href="https://SecondLife365.github.io/gh-pages/gallery.html"/>
         <id>https://SecondLife365.github.io/gh-pages/gallery.html</id>
 
-        <updated>2020-01-23T15:30:04+01:00</updated>
+        <updated>2020-01-24T02:07:41+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://SecondLife365.github.io/gh-pages/media/posts/2/Firestorm-Releasex64_SBfkKjvcTf.png" alt="" />
@@ -176,7 +164,7 @@
         <link href="https://SecondLife365.github.io/gh-pages/multipurpose-house-for-vr.html"/>
         <id>https://SecondLife365.github.io/gh-pages/multipurpose-house-for-vr.html</id>
 
-        <updated>2020-01-23T22:52:30+01:00</updated>
+        <updated>2020-01-24T01:59:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://SecondLife365.github.io/gh-pages/media/posts/1/pic_001.png" alt="" />
@@ -203,9 +191,7 @@
 <p> This website will list all the changes I do to the house through the years, since 2020. In 2019 the second version of the house was sent. Every new version of the house contains previous items and some new added. See "What is new - changlelog" link.</p>
 <p class="msg msg--success"><em>Most items are copy/mod. When you need, just take or copy them to your inventory and use anywhere you need. inside of every object, there is a script Multi-Scene Object Pin. You do not need that script when you do not use the object with the rezzer. Feel free to remove Multi-Scene Object pin from the content.</em> </p>
 <p> </p>
-<p><strong>Changes made since January 2020</strong></p>
-<p>01/2020</p>
-<p>The script changed for doors. Now it stays open. The script is full perm and I got it for 150 L. It allows to lock the house for a list of users or for a group</p>
+<p> </p>
             ]]>
         </content>
     </entry>
