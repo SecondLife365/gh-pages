@@ -3,7 +3,7 @@
     <title>A Multipurpose House Rezzer</title>
     <link href="https://www.virtualhouse.ml/feed.xml" rel="self" />
     <link href="https://www.virtualhouse.ml" />
-    <updated>2020-01-25T15:26:38+01:00</updated>
+    <updated>2020-01-25T19:11:35+01:00</updated>
     <author>
         <name>Jan</name>
     </author>
@@ -17,15 +17,21 @@
         <link href="https://www.virtualhouse.ml/plans.html"/>
         <id>https://www.virtualhouse.ml/plans.html</id>
 
-        <updated>2020-01-25T11:58:12+01:00</updated>
+        <updated>2020-01-25T19:08:59+01:00</updated>
             <summary>
                 <![CDATA[
-                    Here will be changes planned for the future.
+                    If you search for the list of planned, required or possible updates&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                Here will be changes planned for the future.
+                <p class="msg msg--info">If you search for the list of planned, required or possible updates in the future, you have just found it!</p>
+<ol>
+<li><span style="text-decoration: line-through;">Pictures of individual rooms</span>.  DONE</li>
+<li><span style="text-decoration: line-through;">A registered domain for this website, easy to remember</span>. DONE - virtualhouse.ml</li>
+<li>A video with the house showing how to operate the rezzer.</li>
+<li>Garden(s)</li>
+</ol>
             ]]>
         </content>
     </entry>
@@ -37,15 +43,21 @@
         <link href="https://www.virtualhouse.ml/faq.html"/>
         <id>https://www.virtualhouse.ml/faq.html</id>
 
-        <updated>2020-01-25T11:57:09+01:00</updated>
+        <updated>2020-01-25T19:02:12+01:00</updated>
             <summary>
                 <![CDATA[
-                    ... here will be questions and answers
+                    Page for other questions and answers to them:Can I suggest a type&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                ... here will be questions and answers
+                <p>Page for other questions and answers to them:</p>
+<ol>
+<li><strong>Can I suggest a type of a room I would like to see in th house?</strong><br>YES! Absolutely. Ask for it inworld and I may put it on the list of future plans. </li>
+<li><strong>Why are not the objects full perm?</strong><br>Most of the items are copy+mod, which is enough for personal use. Also, many creators do not want their creations to be given away that way.</li>
+<li><strong>Can I get "this...", "that..." or everything?</strong><br>Maybe! You can try to ask. :)</li>
+<li><strong>I have a question...</strong><br>Feel free to ask, the answer may appear here.</li>
+</ol>
             ]]>
         </content>
     </entry>

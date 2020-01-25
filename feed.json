@@ -13,29 +13,29 @@
             "id": "https://www.virtualhouse.ml/plans.html",
             "url": "https://www.virtualhouse.ml/plans.html",
             "title": "Plans",
-            "summary": "Here will be changes planned for the future.",
-            "content_html": "Here will be changes planned for the future.",
+            "summary": "If you search for the list of planned, required or possible updates&hellip;",
+            "content_html": "<p class=\"msg msg--info\">If you search for the list of planned, required or possible updates in the future, you have just found it!</p>\n<ol>\n<li><span style=\"text-decoration: line-through;\">Pictures of individual rooms</span>.  DONE</li>\n<li><span style=\"text-decoration: line-through;\">A registered domain for this website, easy to remember</span>. DONE - virtualhouse.ml</li>\n<li>A video with the house showing how to operate the rezzer.</li>\n<li>Garden(s)</li>\n</ol>",
             "author": {
                 "name": "Jan"
             },
             "tags": [
             ],
             "date_published": "2020-01-25T11:58:12+01:00",
-            "date_modified": "2020-01-25T11:58:12+01:00"
+            "date_modified": "2020-01-25T19:08:59+01:00"
         },
         {
             "id": "https://www.virtualhouse.ml/faq.html",
             "url": "https://www.virtualhouse.ml/faq.html",
             "title": "FAQ",
-            "summary": "... here will be questions and answers",
-            "content_html": "... here will be questions and answers",
+            "summary": "Page for other questions and answers to them:Can I suggest a type&hellip;",
+            "content_html": "<p>Page for other questions and answers to them:</p>\n<ol>\n<li><strong>Can I suggest a type of a room I would like to see in th house?</strong><br>YES! Absolutely. Ask for it inworld and I may put it on the list of future plans. </li>\n<li><strong>Why are not the objects full perm?</strong><br>Most of the items are copy+mod, which is enough for personal use. Also, many creators do not want their creations to be given away that way.</li>\n<li><strong>Can I get \"this...\", \"that...\" or everything?</strong><br>Maybe! You can try to ask. :)</li>\n<li><strong>I have a question...</strong><br>Feel free to ask, the answer may appear here.</li>\n</ol>",
             "author": {
                 "name": "Jan"
             },
             "tags": [
             ],
             "date_published": "2020-01-25T11:57:04+01:00",
-            "date_modified": "2020-01-25T11:57:09+01:00"
+            "date_modified": "2020-01-25T19:02:12+01:00"
         },
         {
             "id": "https://www.virtualhouse.ml/about.html",
