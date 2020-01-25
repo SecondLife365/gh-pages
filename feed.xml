@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>A Multipurpose House Rezzer</title>
-    <link href="https://SecondLife365.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://SecondLife365.github.io/gh-pages" />
-    <updated>2020-01-25T12:57:41+01:00</updated>
+    <link href="https://www.virtualhouse.ml/feed.xml" rel="self" />
+    <link href="https://www.virtualhouse.ml" />
+    <updated>2020-01-25T15:26:38+01:00</updated>
     <author>
         <name>Jan</name>
     </author>
-    <id>https://SecondLife365.github.io/gh-pages</id>
+    <id>https://www.virtualhouse.ml</id>
 
     <entry>
         <title>Plans</title>
         <author>
             <name>Jan</name>
         </author>
-        <link href="https://SecondLife365.github.io/gh-pages/plans.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/plans.html</id>
+        <link href="https://www.virtualhouse.ml/plans.html"/>
+        <id>https://www.virtualhouse.ml/plans.html</id>
 
         <updated>2020-01-25T11:58:12+01:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Jan</name>
         </author>
-        <link href="https://SecondLife365.github.io/gh-pages/faq.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/faq.html</id>
+        <link href="https://www.virtualhouse.ml/faq.html"/>
+        <id>https://www.virtualhouse.ml/faq.html</id>
 
         <updated>2020-01-25T11:57:09+01:00</updated>
             <summary>
@@ -54,10 +54,10 @@
         <author>
             <name>Jan</name>
         </author>
-        <link href="https://SecondLife365.github.io/gh-pages/about.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/about.html</id>
+        <link href="https://www.virtualhouse.ml/about.html"/>
+        <id>https://www.virtualhouse.ml/about.html</id>
 
-        <updated>2020-01-25T02:10:50+01:00</updated>
+        <updated>2020-01-25T14:44:20+01:00</updated>
             <summary>
                 <![CDATA[
                     I hope you will enjoy your gift but please read more, before&hellip;
@@ -66,6 +66,7 @@
         <content type="html">
             <![CDATA[
                 <p class="msg msg--info"><strong>I hope you will enjoy your gift but please read more, before you will try it. (A lot of prims to be rezzed!)</strong></p>
+<p>What you got is a rezzer of a multipurpose house in Second Life. The multi-scene rezzing system, as well as most of the objects I share with you, you can find on Marketplace. Inside your house you can rezz the following:</p>
 <p><br><strong>5 furnished rooms</strong><br> - 28 prims = empty house; the empty house is already included in:<br><br>*Gallery <br>*Christmas Theme - 131 prims<br>* Classroom - 115 prims <br>* Pub - 148 prims<br>* Living Room - 83 prims<br><br><strong>How to use it</strong><br>1. Go to some sandbox or to areas with many prims available.<br>2. Rez the house. It has 28 prims when it is empty.<br>3. Go inside the house and press the MENU above the doors.<br>4. Pick the room you want to see (The current themes are: Christmas, Pub, Classroom, Living room<br>5. Select Remove from menu when you go. You can delete the rezzed empty house. You have a copy in your inventory.<br><br>- Use the house empty and furnish/edit it according your needs.<br>- Use the ready to use rooms to invite your friends, students or visitors and have all the options by hand in any situation at almost any sandbox.<br>- Copy any individual item(s) to your inventory you like, use the items wherever you may need them.<br><br><strong>Permissions</strong> are mostly: copy+mod (all items are copy)<br>Most items inside seem to be no mod, but you can delete a script inside and you will be able to modify most of them.<br>(The script is located in the content and servers for the items to be rezzed, its name is: Multi-Scene Object Pin v3.5.3)<br><br><br><strong>Creators</strong><span style="text-decoration: underline;">:</span> <br>- good looking freebies from various sources<br>- full perm items I purchased for this to be created<br>- things I personally created<br>- things my friends created</p>
 <p class="msg msg--success"><br><em>More to come? YES, hopefully! I want to add more stuff to this collection next years. :) May this house make your Second Life more comfortable &amp; I hope you will find something new you will like and use in this house. It were numerous hours of having fun when creating this for you.</em></p>
             ]]>
@@ -76,29 +77,29 @@
         <author>
             <name>Jan</name>
         </author>
-        <link href="https://SecondLife365.github.io/gh-pages/xmas.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/xmas.html</id>
+        <link href="https://www.virtualhouse.ml/xmas.html"/>
+        <id>https://www.virtualhouse.ml/xmas.html</id>
 
         <updated>2020-01-25T12:14:52+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/8/Firestorm-Releasex64_Q6fgr1PjGX.png" alt="" />
+                        <img src="https://www.virtualhouse.ml/media/posts/8/Firestorm-Releasex64_Q6fgr1PjGX.png" alt="" />
                     Merry Christmas, Happy Holidays! This room is all about gifts, festive decorations,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://SecondLife365.github.io/gh-pages/media/posts/8/Firestorm-Releasex64_Q6fgr1PjGX.png" alt="" />
+                    <img src="https://www.virtualhouse.ml/media/posts/8/Firestorm-Releasex64_Q6fgr1PjGX.png" alt="" />
                 <p>Merry Christmas, Happy Holidays! This room is all about gifts, festive decorations, celebrations in the best time of the year. You can find some newly added gifts every year in this room. The place is ready to welcome visitors who come to see a well decorated space in December. You can use any of the items here to embelish your own parcels. Santa Claus, posters, Christmas trees, snowmen, fireplace, and many more!</p>
 <p class="msg msg--info">This scene with Christmas theme, fully rezzed (house included), contains 131 prims and it is 9.6 x 0.8 m2 large.</p>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_048.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_048-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_049.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_049-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_050.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_050-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_051.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_051-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_052.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_052-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_053.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_053-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_054.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_054-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/8/gallery/pic_048.png" ><img src="https://www.virtualhouse.ml/media/posts/8/gallery/pic_048-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/8/gallery/pic_049.png" ><img src="https://www.virtualhouse.ml/media/posts/8/gallery/pic_049-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/8/gallery/pic_050.png" ><img src="https://www.virtualhouse.ml/media/posts/8/gallery/pic_050-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/8/gallery/pic_051.png" ><img src="https://www.virtualhouse.ml/media/posts/8/gallery/pic_051-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/8/gallery/pic_052.png" ><img src="https://www.virtualhouse.ml/media/posts/8/gallery/pic_052-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/8/gallery/pic_053.png" ><img src="https://www.virtualhouse.ml/media/posts/8/gallery/pic_053-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/8/gallery/pic_054.png" ><img src="https://www.virtualhouse.ml/media/posts/8/gallery/pic_054-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div>
             ]]>
         </content>
@@ -108,8 +109,8 @@
         <author>
             <name>Jan</name>
         </author>
-        <link href="https://SecondLife365.github.io/gh-pages/new-changelog.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/new-changelog.html</id>
+        <link href="https://www.virtualhouse.ml/new-changelog.html"/>
+        <id>https://www.virtualhouse.ml/new-changelog.html</id>
 
         <updated>2020-01-25T11:52:21+01:00</updated>
             <summary>
@@ -145,31 +146,31 @@
         <author>
             <name>Jan</name>
         </author>
-        <link href="https://SecondLife365.github.io/gh-pages/frame-shop.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/frame-shop.html</id>
+        <link href="https://www.virtualhouse.ml/frame-shop.html"/>
+        <id>https://www.virtualhouse.ml/frame-shop.html</id>
 
         <updated>2020-01-25T12:50:27+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/5/frameshop.png" alt="" />
+                        <img src="https://www.virtualhouse.ml/media/posts/5/frameshop.png" alt="" />
                     You are a talented artist, a creator of wonderful images. You may&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://SecondLife365.github.io/gh-pages/media/posts/5/frameshop.png" alt="" />
+                    <img src="https://www.virtualhouse.ml/media/posts/5/frameshop.png" alt="" />
                 <p>You are a talented artist, a creator of wonderful images. You may just not know it ... yet. But try! This room is full of frames waiting for your lovely art. Take a square picture inworld, drop the texture in the middle of the frame and you are done!<br><br>Do you have doubts which of the frames (50 of them) fits best to your texture? Never mind! Just drop your texture 50x into every frame. Then walk around the walls and pick the best looking artwork. Take the picture frame with the texture to your inventory. Do not worry, you do not destroy the room or frames this way! Next time the house is rezzed, 50 new, empty frames, wait on you again. In the room you will find also "visitors" you can copy, as well as the policeman and other stuff.</p>
 <p class="msg msg--info">Fully rezzed the scene occupies XXX prims, house included <br>and it is 9.6 x 0.8 m2 large.</p>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_030.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_030-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_031.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_031-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_032.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_032-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_033.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_033-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_034.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_034-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_035.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_035-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_036.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_036-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_037.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_037-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_038.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_038-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/5/gallery/pic_030.png" ><img src="https://www.virtualhouse.ml/media/posts/5/gallery/pic_030-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/5/gallery/pic_031.png" ><img src="https://www.virtualhouse.ml/media/posts/5/gallery/pic_031-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/5/gallery/pic_032.png" ><img src="https://www.virtualhouse.ml/media/posts/5/gallery/pic_032-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/5/gallery/pic_033.png" ><img src="https://www.virtualhouse.ml/media/posts/5/gallery/pic_033-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/5/gallery/pic_034.png" ><img src="https://www.virtualhouse.ml/media/posts/5/gallery/pic_034-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/5/gallery/pic_035.png" ><img src="https://www.virtualhouse.ml/media/posts/5/gallery/pic_035-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/5/gallery/pic_036.png" ><img src="https://www.virtualhouse.ml/media/posts/5/gallery/pic_036-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/5/gallery/pic_037.png" ><img src="https://www.virtualhouse.ml/media/posts/5/gallery/pic_037-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/5/gallery/pic_038.png" ><img src="https://www.virtualhouse.ml/media/posts/5/gallery/pic_038-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div>
 <p> </p>
             ]]>
@@ -180,36 +181,36 @@
         <author>
             <name>Jan</name>
         </author>
-        <link href="https://SecondLife365.github.io/gh-pages/classroom-1.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/classroom-1.html</id>
+        <link href="https://www.virtualhouse.ml/classroom-1.html"/>
+        <id>https://www.virtualhouse.ml/classroom-1.html</id>
 
         <updated>2020-01-25T12:29:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/4/classroom-01.png" alt="" />
+                        <img src="https://www.virtualhouse.ml/media/posts/4/classroom-01.png" alt="" />
                     Did you know that you have a talent for teaching? You for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://SecondLife365.github.io/gh-pages/media/posts/4/classroom-01.png" alt="" />
+                    <img src="https://www.virtualhouse.ml/media/posts/4/classroom-01.png" alt="" />
                 <p>Did you know that you have a talent for teaching? You for sure do! Anytime you need to explain something to a single person or even to a whole group of interested people, you have use for this room. <br><br>Especially when you need a small group of individuals to gather on a small place, to stay in chat range, you find this room handy. You will become a professor and your students will listen to you. <br><br>There is a large desk in front of you where you can put your things, students have their own desks. Two study seats and two places for visitors. A screen to play your videos from Youtube. In this small room 10 people plus a teacher can stay.</p>
 <p class="msg msg--info">Fully rezzed the scene occupies 115 prims, house included and it is 9.6 x 0.8 m2 large.</p>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_015.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_015-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_016.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_016-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_017.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_017-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_018.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_018-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_019.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_019-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_020.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_020-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_021.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_021-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_022.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_022-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_023.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_023-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_024.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_024-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_026.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_026-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_027.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_027-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_028.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_028-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_029.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_029-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_015.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_015-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_016.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_016-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_017.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_017-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_018.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_018-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_019.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_019-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_020.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_020-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_021.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_021-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_022.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_022-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_023.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_023-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_024.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_024-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_026.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_026-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_027.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_027-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_028.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_028-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/4/gallery/pic_029.png" ><img src="https://www.virtualhouse.ml/media/posts/4/gallery/pic_029-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div>
             ]]>
         </content>
@@ -219,32 +220,32 @@
         <author>
             <name>Jan</name>
         </author>
-        <link href="https://SecondLife365.github.io/gh-pages/anonymous-pub.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/anonymous-pub.html</id>
+        <link href="https://www.virtualhouse.ml/anonymous-pub.html"/>
+        <id>https://www.virtualhouse.ml/anonymous-pub.html</id>
 
         <updated>2020-01-25T11:13:51+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/3/pubanonym.png" alt="" />
+                        <img src="https://www.virtualhouse.ml/media/posts/3/pubanonym.png" alt="" />
                     Did you know that you have your own pub? Yes you do!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://SecondLife365.github.io/gh-pages/media/posts/3/pubanonym.png" alt="" />
+                    <img src="https://www.virtualhouse.ml/media/posts/3/pubanonym.png" alt="" />
                 <p>Did you know that you have your own pub? Yes you do! This room is furnished to meet your drinking habits. Invite someone for a drink or just have one for yourself. In both cases you will be Anonymous here!</p>
 <p>Or... get any stuff from here and add some objects to your own places. In this room 7 people can sit here and one barman. Vendor machines provide drinks and cigarettes.</p>
 <p class="msg msg--info"><strong>Fully rezzed the scene occupies 148 prims, house included and it is 9.6 x 0.8 m2 large.</strong></p>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_039.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_039-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_040.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_040-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_041.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_041-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_042.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_042-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_043.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_043-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_044.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_044-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_045.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_045-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_046.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_046-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_047.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_047-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/3/gallery/pic_039.png" ><img src="https://www.virtualhouse.ml/media/posts/3/gallery/pic_039-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/3/gallery/pic_040.png" ><img src="https://www.virtualhouse.ml/media/posts/3/gallery/pic_040-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/3/gallery/pic_041.png" ><img src="https://www.virtualhouse.ml/media/posts/3/gallery/pic_041-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/3/gallery/pic_042.png" ><img src="https://www.virtualhouse.ml/media/posts/3/gallery/pic_042-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/3/gallery/pic_043.png" ><img src="https://www.virtualhouse.ml/media/posts/3/gallery/pic_043-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/3/gallery/pic_044.png" ><img src="https://www.virtualhouse.ml/media/posts/3/gallery/pic_044-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/3/gallery/pic_045.png" ><img src="https://www.virtualhouse.ml/media/posts/3/gallery/pic_045-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/3/gallery/pic_046.png" ><img src="https://www.virtualhouse.ml/media/posts/3/gallery/pic_046-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/3/gallery/pic_047.png" ><img src="https://www.virtualhouse.ml/media/posts/3/gallery/pic_047-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div>
             ]]>
         </content>
@@ -254,35 +255,35 @@
         <author>
             <name>Jan</name>
         </author>
-        <link href="https://SecondLife365.github.io/gh-pages/gallery.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/gallery.html</id>
+        <link href="https://www.virtualhouse.ml/gallery.html"/>
+        <id>https://www.virtualhouse.ml/gallery.html</id>
 
         <updated>2020-01-25T11:47:33+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/2/room-01.png" alt="" />
+                        <img src="https://www.virtualhouse.ml/media/posts/2/room-01.png" alt="" />
                     Welcome home! The room has 4 places for people seated by the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://SecondLife365.github.io/gh-pages/media/posts/2/room-01.png" alt="" />
+                    <img src="https://www.virtualhouse.ml/media/posts/2/room-01.png" alt="" />
                 <p>Welcome home! The room has 4 places for people seated by the table. It is furnished by furniture usable in living rooms, bed rooms and other individual rooms where people stay to spend time, for example with their friends by a cup of coffee. You may like to rezz it at any place where you want to have a nice chat with your partner(s). <br><br>The items you can get here include some wider picture frames. In the room they have pictures in them I made, but you can replace those. After you rezz your house again, the originals will appear. <br><br>The chairs are covered by the textile which can be used separatedly. It contains a lot of useful anims. You can use these objects to animate your own furniture. 2 people can lay or cuddle on the bed and there are some other useful objects in the room, you can just take.</p>
 <p class="msg msg--info">Fully rezzed the scene occupies 83 prims, house included<br> and it is 9.6 x 0.8 m2 large.</p>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_002.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_002-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_003.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_003-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_004.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_004-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_005.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_005-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_006.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_006-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_007.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_007-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_008.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_008-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_009.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_009-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_010.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_010-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_011.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_011-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_012.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_012-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_013.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_013-thumbnail.png" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_014.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_014-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_002.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_002-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_003.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_003-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_004.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_004-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_005.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_005-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_006.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_006-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_007.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_007-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_008.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_008-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_009.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_009-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_010.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_010-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_011.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_011-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_012.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_012-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_013.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_013-thumbnail.png" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="https://www.virtualhouse.ml/media/posts/2/gallery/pic_014.png" ><img src="https://www.virtualhouse.ml/media/posts/2/gallery/pic_014-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div>
             ]]>
         </content>
@@ -292,26 +293,26 @@
         <author>
             <name>Jan</name>
         </author>
-        <link href="https://SecondLife365.github.io/gh-pages/multipurpose-house-for-vr.html"/>
-        <id>https://SecondLife365.github.io/gh-pages/multipurpose-house-for-vr.html</id>
+        <link href="https://www.virtualhouse.ml/multipurpose-house-for-vr.html"/>
+        <id>https://www.virtualhouse.ml/multipurpose-house-for-vr.html</id>
 
         <updated>2020-01-25T02:35:15+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/1/pic_001.png" alt="" />
+                        <img src="https://www.virtualhouse.ml/media/posts/1/pic_001.png" alt="" />
                     Hello world!I furnished a multipurpose house, in Second Life, for you. Mostly you&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://SecondLife365.github.io/gh-pages/media/posts/1/pic_001.png" alt="" />
+                    <img src="https://www.virtualhouse.ml/media/posts/1/pic_001.png" alt="" />
                 <figure class="post__image"></figure>
 <figure>
 <figure></figure>
 <figure></figure>
 <h2 id="mcetoc_1dvd5ddb30" class="align-center"><strong>Hello world!</strong></h2>
 </figure>
-<figure>I furnished a multipurpose house, in Second Life, for you. Mostly you can get it as my updated personal gift to you, once a year, around Christmas. The house is full of stuff and it is free for you. Many things inside were bought, so you will not find there just the common freebies which you can see all around.<br><img class="post__image post__image--center" src="https://SecondLife365.github.io/gh-pages/media/posts/1/pic-_001.png" width="271" height="153">Most items are copy/mod. When you need, just take or copy them to your inventory and use them anywhere you need. Inside of every object, there is a script Multi-Scene Object Pin. You do not need that script when you do not use the object with the rezzer. Feel free to remove Multi-Scene Object pin from the content.  This website will list all the changes I do to the house through the years, since 2020. In 2019 the second version of the house was sent. Every new version of the house contains previous items and some new added. See "What is new - changlelog" link.</figure>
+<figure>I furnished a multipurpose house, in Second Life, for you. Mostly you can get it as my updated personal gift to you, once a year, around Christmas. The house is full of stuff and it is free for you. Many things inside were bought, so you will not find there just the common freebies which you can see all around.<br><img class="post__image post__image--center" src="https://www.virtualhouse.ml/media/posts/1/pic-_001.png" width="271" height="153">Most items are copy/mod. When you need, just take or copy them to your inventory and use them anywhere you need. Inside of every object, there is a script Multi-Scene Object Pin. You do not need that script when you do not use the object with the rezzer. Feel free to remove Multi-Scene Object pin from the content.  This website will list all the changes I do to the house through the years, since 2020. In 2019 the second version of the house was sent. Every new version of the house contains previous items and some new added. See "What is new - changlelog" link.</figure>
 <p> </p>
 <p> </p>
             ]]>
