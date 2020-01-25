@@ -3,12 +3,52 @@
     <title>A Multipurpose House Rezzer</title>
     <link href="https://SecondLife365.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://SecondLife365.github.io/gh-pages" />
-    <updated>2020-01-25T02:41:06+01:00</updated>
+    <updated>2020-01-25T12:57:41+01:00</updated>
     <author>
         <name>Jan</name>
     </author>
     <id>https://SecondLife365.github.io/gh-pages</id>
 
+    <entry>
+        <title>Plans</title>
+        <author>
+            <name>Jan</name>
+        </author>
+        <link href="https://SecondLife365.github.io/gh-pages/plans.html"/>
+        <id>https://SecondLife365.github.io/gh-pages/plans.html</id>
+
+        <updated>2020-01-25T11:58:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Here will be changes planned for the future.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Here will be changes planned for the future.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>FAQ</title>
+        <author>
+            <name>Jan</name>
+        </author>
+        <link href="https://SecondLife365.github.io/gh-pages/faq.html"/>
+        <id>https://SecondLife365.github.io/gh-pages/faq.html</id>
+
+        <updated>2020-01-25T11:57:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                    ... here will be questions and answers
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                ... here will be questions and answers
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
@@ -39,12 +79,19 @@
         <link href="https://SecondLife365.github.io/gh-pages/xmas.html"/>
         <id>https://SecondLife365.github.io/gh-pages/xmas.html</id>
 
-        <updated>2020-01-24T11:33:24+01:00</updated>
-            <summary></summary>
+        <updated>2020-01-25T12:14:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/8/Firestorm-Releasex64_Q6fgr1PjGX.png" alt="" />
+                    Merry Christmas, Happy Holidays! This room is all about gifts, festive decorations,&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://SecondLife365.github.io/gh-pages/media/posts/8/Firestorm-Releasex64_Q6fgr1PjGX.png" alt="" />
-                <div class="gallery"   >
+                <p>Merry Christmas, Happy Holidays! This room is all about gifts, festive decorations, celebrations in the best time of the year. You can find some newly added gifts every year in this room. The place is ready to welcome visitors who come to see a well decorated space in December. You can use any of the items here to embelish your own parcels. Santa Claus, posters, Christmas trees, snowmen, fireplace, and many more!</p>
+<p class="msg msg--info">This scene with Christmas theme, fully rezzed (house included), contains 131 prims and it is 9.6 x 0.8 m2 large.</p>
+<div class="gallery"   >
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_048.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_048-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_049.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_049-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_050.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/8/gallery/pic_050-thumbnail.png" alt="" width="768" height="432"></a></figure>
@@ -64,7 +111,7 @@
         <link href="https://SecondLife365.github.io/gh-pages/new-changelog.html"/>
         <id>https://SecondLife365.github.io/gh-pages/new-changelog.html</id>
 
-        <updated>2020-01-25T02:37:34+01:00</updated>
+        <updated>2020-01-25T11:52:21+01:00</updated>
             <summary>
                 <![CDATA[
                     Changes made since January 2020 01/2020 12/2019 - version 5.1 - Inside&hellip;
@@ -75,6 +122,7 @@
                 <p><strong>Changes made since January 2020</strong></p>
 <p><strong>01/2020</strong></p>
 <ul>
+<li>Works on this documentation started, the website was created.</li>
 <li>The script changed for doors. Now it stays open. The script is full perm and I got it for 150 L. It allows to lock the house for a list of users or for a group</li>
 </ul>
 <p><strong>12/2019 - version 5.1</strong></p>
@@ -100,12 +148,19 @@
         <link href="https://SecondLife365.github.io/gh-pages/frame-shop.html"/>
         <id>https://SecondLife365.github.io/gh-pages/frame-shop.html</id>
 
-        <updated>2020-01-25T01:44:40+01:00</updated>
-            <summary></summary>
+        <updated>2020-01-25T12:50:27+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/5/frameshop.png" alt="" />
+                    You are a talented artist, a creator of wonderful images. You may&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://SecondLife365.github.io/gh-pages/media/posts/5/frameshop.png" alt="" />
-                <div class="gallery"   >
+                <p>You are a talented artist, a creator of wonderful images. You may just not know it ... yet. But try! This room is full of frames waiting for your lovely art. Take a square picture inworld, drop the texture in the middle of the frame and you are done!<br><br>Do you have doubts which of the frames (50 of them) fits best to your texture? Never mind! Just drop your texture 50x into every frame. Then walk around the walls and pick the best looking artwork. Take the picture frame with the texture to your inventory. Do not worry, you do not destroy the room or frames this way! Next time the house is rezzed, 50 new, empty frames, wait on you again. In the room you will find also "visitors" you can copy, as well as the policeman and other stuff.</p>
+<p class="msg msg--info">Fully rezzed the scene occupies XXX prims, house included <br>and it is 9.6 x 0.8 m2 large.</p>
+<div class="gallery"   >
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_030.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_030-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_031.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_031-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_032.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_032-thumbnail.png" alt="" width="768" height="432"></a></figure>
@@ -116,6 +171,7 @@
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_037.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_037-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_038.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/5/gallery/pic_038-thumbnail.png" alt="" width="768" height="432"></a></figure>
 </div>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -127,12 +183,19 @@
         <link href="https://SecondLife365.github.io/gh-pages/classroom-1.html"/>
         <id>https://SecondLife365.github.io/gh-pages/classroom-1.html</id>
 
-        <updated>2020-01-25T01:51:13+01:00</updated>
-            <summary></summary>
+        <updated>2020-01-25T12:29:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/4/classroom-01.png" alt="" />
+                    Did you know that you have a talent for teaching? You for&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://SecondLife365.github.io/gh-pages/media/posts/4/classroom-01.png" alt="" />
-                <div class="gallery"   >
+                <p>Did you know that you have a talent for teaching? You for sure do! Anytime you need to explain something to a single person or even to a whole group of interested people, you have use for this room. <br><br>Especially when you need a small group of individuals to gather on a small place, to stay in chat range, you find this room handy. You will become a professor and your students will listen to you. <br><br>There is a large desk in front of you where you can put your things, students have their own desks. Two study seats and two places for visitors. A screen to play your videos from Youtube. In this small room 10 people plus a teacher can stay.</p>
+<p class="msg msg--info">Fully rezzed the scene occupies 115 prims, house included and it is 9.6 x 0.8 m2 large.</p>
+<div class="gallery"   >
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_015.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_015-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_016.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_016-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_017.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/4/gallery/pic_017-thumbnail.png" alt="" width="768" height="432"></a></figure>
@@ -159,12 +222,20 @@
         <link href="https://SecondLife365.github.io/gh-pages/anonymous-pub.html"/>
         <id>https://SecondLife365.github.io/gh-pages/anonymous-pub.html</id>
 
-        <updated>2020-01-25T01:45:25+01:00</updated>
-            <summary></summary>
+        <updated>2020-01-25T11:13:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://SecondLife365.github.io/gh-pages/media/posts/3/pubanonym.png" alt="" />
+                    Did you know that you have your own pub? Yes you do!&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://SecondLife365.github.io/gh-pages/media/posts/3/pubanonym.png" alt="" />
-                <div class="gallery"   >
+                <p>Did you know that you have your own pub? Yes you do! This room is furnished to meet your drinking habits. Invite someone for a drink or just have one for yourself. In both cases you will be Anonymous here!</p>
+<p>Or... get any stuff from here and add some objects to your own places. In this room 7 people can sit here and one barman. Vendor machines provide drinks and cigarettes.</p>
+<p class="msg msg--info"><strong>Fully rezzed the scene occupies 148 prims, house included and it is 9.6 x 0.8 m2 large.</strong></p>
+<div class="gallery"   >
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_039.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_039-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_040.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_040-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_041.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/3/gallery/pic_041-thumbnail.png" alt="" width="768" height="432"></a></figure>
@@ -186,17 +257,18 @@
         <link href="https://SecondLife365.github.io/gh-pages/gallery.html"/>
         <id>https://SecondLife365.github.io/gh-pages/gallery.html</id>
 
-        <updated>2020-01-25T01:51:29+01:00</updated>
+        <updated>2020-01-25T11:47:33+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://SecondLife365.github.io/gh-pages/media/posts/2/room-01.png" alt="" />
-                    This room is furnished by furniture usable in living rooms, bed rooms&hellip;
+                    Welcome home! The room has 4 places for people seated by the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://SecondLife365.github.io/gh-pages/media/posts/2/room-01.png" alt="" />
-                <p>This room is furnished by furniture usable in living rooms, bed rooms and other individual rooms where people stay to spend time, for example with their friends by a cup of coffee. You can invite your friends and have them seated by the table while chatting with them.</p>
+                <p>Welcome home! The room has 4 places for people seated by the table. It is furnished by furniture usable in living rooms, bed rooms and other individual rooms where people stay to spend time, for example with their friends by a cup of coffee. You may like to rezz it at any place where you want to have a nice chat with your partner(s). <br><br>The items you can get here include some wider picture frames. In the room they have pictures in them I made, but you can replace those. After you rezz your house again, the originals will appear. <br><br>The chairs are covered by the textile which can be used separatedly. It contains a lot of useful anims. You can use these objects to animate your own furniture. 2 people can lay or cuddle on the bed and there are some other useful objects in the room, you can just take.</p>
+<p class="msg msg--info">Fully rezzed the scene occupies 83 prims, house included<br> and it is 9.6 x 0.8 m2 large.</p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_002.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_002-thumbnail.png" alt="" width="768" height="432"></a></figure>
 <figure class="gallery__item"><a href="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_003.png" ><img src="https://SecondLife365.github.io/gh-pages/media/posts/2/gallery/pic_003-thumbnail.png" alt="" width="768" height="432"></a></figure>
