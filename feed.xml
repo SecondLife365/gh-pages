@@ -3,7 +3,7 @@
     <title>A Multipurpose House Rezzer</title>
     <link href="https://www.virtualhouse.ml/feed.xml" rel="self" />
     <link href="https://www.virtualhouse.ml" />
-    <updated>2020-01-27T09:21:31+01:00</updated>
+    <updated>2020-06-07T11:55:05+02:00</updated>
     <author>
         <name>Jan</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.virtualhouse.ml/plans.html"/>
         <id>https://www.virtualhouse.ml/plans.html</id>
 
-        <updated>2020-01-25T19:08:59+01:00</updated>
+        <updated>2020-06-07T11:53:53+02:00</updated>
             <summary>
                 <![CDATA[
                     If you search for the list of planned, required or possible updates&hellip;
@@ -31,6 +31,14 @@
 <li><span style="text-decoration: line-through;">A registered domain for this website, easy to remember</span>. DONE - virtualhouse.ml</li>
 <li>A video with the house showing how to operate the rezzer.</li>
 <li>Garden(s)</li>
+<li>Laboratory</li>
+<li>Living rooms</li>
+<li>Kitchens</li>
+<li>Bathrooms</li>
+<li>Pubs and restaurants</li>
+<li>Workrooms</li>
+<li>Cinema</li>
+<li>Stage</li>
 </ol>
             ]]>
         </content>

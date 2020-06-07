@@ -14,14 +14,14 @@
             "url": "https://www.virtualhouse.ml/plans.html",
             "title": "Plans",
             "summary": "If you search for the list of planned, required or possible updates&hellip;",
-            "content_html": "<p class=\"msg msg--info\">If you search for the list of planned, required or possible updates in the future, you have just found it!</p>\n<ol>\n<li><span style=\"text-decoration: line-through;\">Pictures of individual rooms</span>.  DONE</li>\n<li><span style=\"text-decoration: line-through;\">A registered domain for this website, easy to remember</span>. DONE - virtualhouse.ml</li>\n<li>A video with the house showing how to operate the rezzer.</li>\n<li>Garden(s)</li>\n</ol>",
+            "content_html": "<p class=\"msg msg--info\">If you search for the list of planned, required or possible updates in the future, you have just found it!</p>\n<ol>\n<li><span style=\"text-decoration: line-through;\">Pictures of individual rooms</span>.  DONE</li>\n<li><span style=\"text-decoration: line-through;\">A registered domain for this website, easy to remember</span>. DONE - virtualhouse.ml</li>\n<li>A video with the house showing how to operate the rezzer.</li>\n<li>Garden(s)</li>\n<li>Laboratory</li>\n<li>Living rooms</li>\n<li>Kitchens</li>\n<li>Bathrooms</li>\n<li>Pubs and restaurants</li>\n<li>Workrooms</li>\n<li>Cinema</li>\n<li>Stage</li>\n</ol>",
             "author": {
                 "name": "Jan"
             },
             "tags": [
             ],
             "date_published": "2020-01-25T11:58:12+01:00",
-            "date_modified": "2020-01-25T19:08:59+01:00"
+            "date_modified": "2020-06-07T11:53:53+02:00"
         },
         {
             "id": "https://www.virtualhouse.ml/faq.html",
